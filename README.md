@@ -3,6 +3,9 @@
 
 This is a Telegram bot that interacts with Reddit API to search for keywords in post titles in subreddits set by the user. All interaction with the bot happens through Telegram commands. Check the tbot.py file for more information.
 
+### To do:
+
+- Add error handling for mistyped subreddits so they do not break the script
 
 ## Deployment
 
